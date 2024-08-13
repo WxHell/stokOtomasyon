@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alper\\Desktop\\Prıje\\stokKontrol\\stokKontrol\\stokKontrol.csproj": {}
+    "C:\\Users\\alper\\Desktop\\Proje\\stokKontrol\\stokKontrol\\stokKontrol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alper\\Desktop\\Prıje\\stokKontrol\\stokKontrol\\stokKontrol.csproj": {
+    "C:\\Users\\alper\\Desktop\\Proje\\stokKontrol\\stokKontrol\\stokKontrol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alper\\Desktop\\Prıje\\stokKontrol\\stokKontrol\\stokKontrol.csproj",
+        "projectUniqueName": "C:\\Users\\alper\\Desktop\\Proje\\stokKontrol\\stokKontrol\\stokKontrol.csproj",
         "projectName": "stokKontrol",
-        "projectPath": "C:\\Users\\alper\\Desktop\\Prıje\\stokKontrol\\stokKontrol\\stokKontrol.csproj",
+        "projectPath": "C:\\Users\\alper\\Desktop\\Proje\\stokKontrol\\stokKontrol\\stokKontrol.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alper\\Desktop\\Prıje\\stokKontrol\\stokKontrol\\obj\\",
+        "outputPath": "C:\\Users\\alper\\Desktop\\Proje\\stokKontrol\\stokKontrol\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alper\\Desktop\\Pr\u0131je\\stokKontrol\\",
+  "WorkspaceRootPath": "C:\\Users\\alper\\Desktop\\Proje\\stokKontrol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{320720A6-36B0-4767-A3FB-B63207C43A15}|stokKontrol\\stokKontrol.csproj|c:\\users\\alper\\desktop\\pr\u0131je\\stokkontrol\\stokkontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{320720A6-36B0-4767-A3FB-B63207C43A15}|stokKontrol\\stokKontrol.csproj|solutionrelative:stokkontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{320720A6-36B0-4767-A3FB-B63207C43A15}|stokKontrol\\stokKontrol.csproj|c:\\users\\alper\\desktop\\pr\u0131je\\stokkontrol\\stokkontrol\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{320720A6-36B0-4767-A3FB-B63207C43A15}|stokKontrol\\stokKontrol.csproj|C:\\Users\\alper\\Desktop\\Proje\\stokKontrol\\stokkontrol\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{320720A6-36B0-4767-A3FB-B63207C43A15}|stokKontrol\\stokKontrol.csproj|solutionrelative:stokkontrol\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{320720A6-36B0-4767-A3FB-B63207C43A15}|stokKontrol\\stokKontrol.csproj|c:\\users\\alper\\desktop\\pr\u0131je\\stokkontrol\\stokkontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{320720A6-36B0-4767-A3FB-B63207C43A15}|stokKontrol\\stokKontrol.csproj|C:\\Users\\alper\\Desktop\\Proje\\stokKontrol\\stokkontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{320720A6-36B0-4767-A3FB-B63207C43A15}|stokKontrol\\stokKontrol.csproj|solutionrelative:stokkontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{320720A6-36B0-4767-A3FB-B63207C43A15}|stokKontrol\\stokKontrol.csproj|c:\\users\\alper\\desktop\\pr\u0131je\\stokkontrol\\stokkontrol\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{320720A6-36B0-4767-A3FB-B63207C43A15}|stokKontrol\\stokKontrol.csproj|C:\\Users\\alper\\Desktop\\Proje\\stokKontrol\\stokkontrol\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{320720A6-36B0-4767-A3FB-B63207C43A15}|stokKontrol\\stokKontrol.csproj|solutionrelative:stokkontrol\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320720A6-36B0-4767-A3FB-B63207C43A15}|stokKontrol\\stokKontrol.csproj|c:\\users\\alper\\desktop\\proje\\stokkontrol\\stokkontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{320720A6-36B0-4767-A3FB-B63207C43A15}|stokKontrol\\stokKontrol.csproj|solutionrelative:stokkontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +26,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\Pr\u0131je\\stokKontrol\\stokKontrol\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\Proje\\stokKontrol\\stokKontrol\\Form1.cs",
               "RelativeDocumentMoniker": "stokKontrol\\Form1.cs",
-              "ToolTip": "C:\\Users\\alper\\Desktop\\Pr\u0131je\\stokKontrol\\stokKontrol\\Form1.cs [Tasar\u0131m]",
+              "ToolTip": "C:\\Users\\alper\\Desktop\\Proje\\stokKontrol\\stokKontrol\\Form1.cs [Tasar\u0131m]",
               "RelativeToolTip": "stokKontrol\\Form1.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T07:11:27.744Z",
@@ -43,11 +43,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form2.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\Pr\u0131je\\stokKontrol\\stokKontrol\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\Proje\\stokKontrol\\stokKontrol\\Form2.cs",
               "RelativeDocumentMoniker": "stokKontrol\\Form2.cs",
-              "ToolTip": "C:\\Users\\alper\\Desktop\\Pr\u0131je\\stokKontrol\\stokKontrol\\Form2.cs [Tasar\u0131m]",
+              "ToolTip": "C:\\Users\\alper\\Desktop\\Proje\\stokKontrol\\stokKontrol\\Form2.cs [Tasar\u0131m]",
               "RelativeToolTip": "stokKontrol\\Form2.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T07:18:43.364Z",
@@ -60,24 +60,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\Pr\u0131je\\stokKontrol\\stokKontrol\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\Proje\\stokKontrol\\stokKontrol\\Form2.cs",
               "RelativeDocumentMoniker": "stokKontrol\\Form2.cs",
-              "ToolTip": "C:\\Users\\alper\\Desktop\\Pr\u0131je\\stokKontrol\\stokKontrol\\Form2.cs",
+              "ToolTip": "C:\\Users\\alper\\Desktop\\Proje\\stokKontrol\\stokKontrol\\Form2.cs",
               "RelativeToolTip": "stokKontrol\\Form2.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAgwIYAAAAfAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAA7wDMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T07:26:36.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\Pr\u0131je\\stokKontrol\\stokKontrol\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Desktop\\Proje\\stokKontrol\\stokKontrol\\Form1.cs",
               "RelativeDocumentMoniker": "stokKontrol\\Form1.cs",
-              "ToolTip": "C:\\Users\\alper\\Desktop\\Pr\u0131je\\stokKontrol\\stokKontrol\\Form1.cs",
+              "ToolTip": "C:\\Users\\alper\\Desktop\\Proje\\stokKontrol\\stokKontrol\\Form1.cs",
               "RelativeToolTip": "stokKontrol\\Form1.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAwwCYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

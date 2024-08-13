@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("stokKontrol")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81462afdc08a561c8fde50e51c2f4c46d1132262")]
 [assembly: System.Reflection.AssemblyProductAttribute("stokKontrol")]
 [assembly: System.Reflection.AssemblyTitleAttribute("stokKontrol")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
